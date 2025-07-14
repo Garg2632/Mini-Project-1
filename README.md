@@ -23,7 +23,7 @@ Make sure you have Node.js installed.
 npm install
 
 # Step 2: Run the server
-npx nodemon app.js
+npm start
 
 # Step 3: Open in your browser
 http://localhost:3000
