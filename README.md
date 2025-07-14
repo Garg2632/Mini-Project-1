@@ -12,7 +12,17 @@ Welcome to **ExploreWorld**, a simple Express.js project that showcases a fruit 
 - Easy-to-understand project structure
 
 ## 📁 Project Structure
-
+project-root/
+├── app.js # Main Express server file
+├── /data
+│ └── fruits.json # JSON file with fruit data
+├── /public
+│ ├── index.html # Main Home page
+│ ├── about.html # About page
+│ ├── data.html # Data viewing page
+│ ├── styles.css # Custom styling
+│ └── script.js # JavaScript for fetch and UI logic
+└── README.md # This file
 
 ## 🚀 Run the Project
 
