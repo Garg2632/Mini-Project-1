@@ -1,0 +1,8 @@
+[
+  { "id": 1, "name": "Apple", "description": "A tasty fruit." },
+  { "id": 2, "name": "Banana", "description": "Yellow and sweet." },
+  { "id": 3, "name": "Orange", "description": "Full of vitamin C." },
+  { "id": 4, "name": "Mango", "description": "King of fruits." },
+  { "id": 5, "name": "Pineapple", "description": "Tropical and juicy." },
+  { "id": 6, "name": "Grapes", "description": "Perfect for snacking." }
+]
